@@ -1,0 +1,10 @@
+folder: day
+name: day0
+subdir:
+- drive
+- ice
+- stamp
+- photo
+title:
+  zh-cn: IcyL Round
+version: 2

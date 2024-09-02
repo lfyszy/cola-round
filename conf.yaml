@@ -1,0 +1,7 @@
+folder: contest
+name: name for programmers
+subdir:
+- day0
+title:
+  zh-cn: 校内互测模拟赛
+version: 2
