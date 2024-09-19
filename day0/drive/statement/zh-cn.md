@@ -2,10 +2,10 @@
 
 {{ s('background') }}
 
-> Yeah, I can’t do these long drives sitting in the back seat.
+> Yeah, I can't do these long drives sitting in the back seat.
 > 
 > 
-> Thinking’bout that one night when the world caught fire.
+> Thinking'bout that one night when the world caught fire.
 > 
 > Baby, and your eyes brightened up this dark scene.
 > 

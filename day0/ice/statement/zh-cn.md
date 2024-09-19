@@ -38,6 +38,10 @@
 
 {{ self.sample_file() }}
 
+{{ s('sample', 3) }}
+
+{{ self.sample_file() }}
+
 {{ s('subtasks') }}
 
 特殊性质：$C=2K$.
